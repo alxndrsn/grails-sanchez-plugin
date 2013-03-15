@@ -13,7 +13,7 @@ class SanchezGrailsPlugin {
 	'''
 
 	// URL to the plugin's documentation
-	def documentation = 'http://alxndrsn.github.com/sanchez.js'
+	def documentation = 'https://github.com/alxndrsn/grails-sanchez-plugin'
 	def license = 'APACHE'
 	def doWithWebDescriptor = { xml ->
 	}
