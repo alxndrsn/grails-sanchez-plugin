@@ -51,8 +51,8 @@ In your javascript:
 
 # Examples
 
-* [See this simple Grails project using a sanchez template][2].
-* [For more examples of sanchez.js usage, see the sanchez.js website][1].
+* [simple Grails project using a sanchez template][2]
+* [more examples of sanchez.js usage (sanchez.js website)][1]
 
 [1]: http://alxndrsn.github.com/sanchez.js
 [2]: https://github.com/alxndrsn/grails-sanchez-example/blob/master/grails-app/views/thing/list.gsp
