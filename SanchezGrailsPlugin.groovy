@@ -8,4 +8,6 @@ class SanchezGrailsPlugin {
 
 	def documentation = 'https://github.com/alxndrsn/grails-sanchez-plugin'
 	def license = 'APACHE'
+	def issueManagement = [system: 'GitHub', url: 'https://github.com/alxndrsn/grails-sanchez-plugin/issues']
+	def scm = [url: 'https://github.com/alxndrsn/grails-sanchez-plugin']
 }
