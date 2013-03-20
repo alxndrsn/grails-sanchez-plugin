@@ -10,3 +10,4 @@ class SanchezGrailsPlugin {
 	def issueManagement = [system: 'GitHub', url: 'https://github.com/alxndrsn/grails-sanchez-plugin/issues']
 	def scm = [url: 'https://github.com/alxndrsn/grails-sanchez-plugin']
 }
+
