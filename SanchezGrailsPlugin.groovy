@@ -1,5 +1,5 @@
 class SanchezGrailsPlugin {
-	def version = '1.0'
+	def version = '1.1-SNAPSHOT'
 	def grailsVersion = '2.0 > *'
 	def title = 'Sanchez Plugin'
 	def author = 'Alex Anderson'
